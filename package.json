@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-git",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hello, Hexlet! How are you? No code No pain experiment with amend",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuznevia/hexlet-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuznevia/hexlet-git/issues"
+  },
+  "homepage": "https://github.com/kuznevia/hexlet-git#readme"
+}
